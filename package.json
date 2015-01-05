@@ -1,0 +1,15 @@
+{
+  "name": "file_splitter",
+  "version": "0.0.1",
+  "description": "File splitter based on no of lines/size",
+  "main": "index.js",
+  "dependencies": {
+    "line-reader": "~0.2.4",
+    "stdio": "~0.2.7"
+  },
+  "devDependencies": {
+    "line-reader": "~0.2.4",
+    "stdio": "~0.2.7"
+  },
+  "author": "Madan"
+}
